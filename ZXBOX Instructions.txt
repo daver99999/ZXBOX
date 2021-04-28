@@ -1,0 +1,35 @@
+You need an USB keyboard connected to the PI before switch on, no USB hot-plug. Optionally you can plug a PS3/PS4/XBox360/XBox One/Nintendo Switch Pro Controller gamepad and an USB mouse.
+Choose a virtual tape from tape selector and type LOAD "" + [ENTER]
+F1 key: Help.
+Left Alt + 'K': Keyboard Help
+Pressing [Select / SHARE / View / Capture] gamepad key the emulated joystick changes to:
+Model	Cross (X) or A	Circle (O) or B	Square or X	Triangle or Y	L1 - R1	L2 - R2
+None	---	---	---	---	---	---
+Kempston	Fire	Fire 2	Fire 2	Fire	Fire	Fire 2
+Fuller	Fire	Fire 2	Fire 2	Fire	Fire	Fire 2
+Sinclair 1	Fire	Key 'x'	Key 'x'	Fire	Fire	Key 'x'
+Sinclair 2	Fire	Key 'z'	Key 'z'	Fire	Fire	Key 'z'
+Cursor/AGF/Protek	Fire	Key '9'	Key '9'	Fire	Fire	Key '9'
+QAOPSpaceM	Fire (Space)	Fire 2 (Key 'm')	Fire 2 (Key 'm')	Fire	Fire	Fire 2 (Key 'm')
+How to use a Recreated ZX keyboard
+The keyboard should be plugged before switch on the Raspberry PI and the mode selection switch should be in Layer A mode. Can be connected with or without a standard USB keyboard. The Recreated keyboard have two working modes:
+Standard mode: works exactly as a real Spectrum 48k rubber keyboard.
+Alternate mode: You can enter to this mode using the key combination Caps-Shift + Symbol-Shift + ENTER. Then, you can watch an informational message on screen and an icon is printed on lower right corner. Then, keys '1' to '9' works as F1-F10 from a standard keyboard, and the Symbol-Shift key acts as the 'Alt' modifier key, so pressing Symbol-Shift + K you can see a help screen with key combinations for this mode. You can exit from this mode using the same key combination used to enter on it.
+To Switch to +2 and Plus 3 mode simply select alt F3 and F4 respectly.
+
+
+
+
+
+
+in the file browser - F1 key select the file you want to load The Included software is in the software directory.
+
+After selecting the software directory with the spacebar not enter select the game or app you wish to load.
+
+
+
+now return to the sinclair screen and type Load "" and press enter. The Keyboard mapping takes a bit of getting used to you can use alt K to pull up the keyboard map.
+Load the game and have some fun.
+
+
+
